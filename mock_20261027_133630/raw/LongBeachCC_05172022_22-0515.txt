@@ -1,0 +1,34 @@
+```json
+[
+  {
+    "commitment_id": "P001",
+    "owner": "Emily Armstrong",
+    "action": "amend",
+    "object": "ordinance",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P002",
+    "owner": "staff",
+    "action": "schedule",
+    "object": "follow-up hearing",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": "next month",
+    "status": "proposed",
+    "evidence": {
+      "text": "this sentence does not appear in the transcript"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  }
+]
+```

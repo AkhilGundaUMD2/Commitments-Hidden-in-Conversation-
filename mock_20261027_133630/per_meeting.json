@@ -1,0 +1,11 @@
+[
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "n_pred": 2,
+    "n_gold": 1,
+    "n_matched": 1,
+    "n_ungrounded": 1,
+    "n_invalid": 0,
+    "parse_failed": false
+  }
+]

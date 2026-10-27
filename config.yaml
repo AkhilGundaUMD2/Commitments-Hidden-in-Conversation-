@@ -1,0 +1,23 @@
+# Any LiteLLM model string works, e.g.
+#   gpt-4o-mini, anthropic/claude-sonnet-4-5, gemini/gemini-2.5-flash, ollama/llama3.1
+# Set the matching API key as an env var (OPENAI_API_KEY, ANTHROPIC_API_KEY, ...).
+model: gpt-4o-mini
+temperature: 0
+max_tokens: 8000
+model_kwargs: {}
+
+gold_path: data/gold.json
+
+# Leave null to pull transcripts from Hugging Face MeetingBank (cached locally).
+# Or point at a JSON file of {uid: transcript}.
+transcripts_path: null
+hf_dataset: huuuyeah/meetingbank
+transcript_cache: data/transcripts_cache.json
+
+# Thresholds
+grounding_threshold: 90   # 0-100, evidence vs transcript
+match_threshold: 0.6      # 0-1, pred vs gold pair score
+evidence_weight: 0.6      # weight of evidence similarity in the pair score
+text_threshold: 80        # 0-100, field match for action/object/condition/deadline
+
+runs_dir: runs

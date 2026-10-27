@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "predictions": [
+      {
+        "uid": "LongBeachCC_05172022_22-0515",
+        "commitment_id": "P001",
+        "owner": "Emily Armstrong",
+        "action": "amend",
+        "object": "ordinance",
+        "commitment_force": "firm_commitment",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "LongBeachCC_05172022_22-0515",
+        "commitment_id": "P002",
+        "owner": "staff",
+        "action": "schedule",
+        "object": "follow-up hearing",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": "next month",
+        "status": "proposed",
+        "evidence": {
+          "text": "this sentence does not appear in the transcript"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 59.57446808510638,
+        "grounded": false
+      }
+    ],
+    "invalid_records": [],
+    "matches": [
+      {
+        "pred_id": "P001",
+        "gold_id": "C001",
+        "score": 1.0,
+        "fields": {
+          "owner_f1": 0.6666666666666666,
+          "commitment_force": true,
+          "status": true,
+          "uncertainty": true,
+          "action": true,
+          "object": true,
+          "condition": true,
+          "deadline": true
+        }
+      }
+    ],
+    "unmatched_pred": [
+      "P002"
+    ],
+    "unmatched_gold": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C001",
+    "owner": "Emily Armstrong and Art Sanchez",
+    "action": "amend",
+    "object": "ordinance",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {"text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"},
+    "revision_of": null,
+    "uncertainty": false
+  }
+]
