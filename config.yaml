@@ -8,6 +8,11 @@ model_kwargs: {}
 
 gold_path: data/gold.json
 
+# Meetings to evaluate in addition to those in the gold file. List meetings
+# with no commitments here so they are still scored for false positives.
+uids:
+  - DenverCityCouncil_06192017_17-0498
+
 # Leave null to pull transcripts from Hugging Face MeetingBank (cached locally).
 # Or point at a JSON file of {uid: transcript}.
 transcripts_path: null

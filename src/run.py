@@ -43,7 +43,7 @@ def run_one(uid, transcript, golds, model, cfg, raw_dir):
             preds, invalid, parse_failed = [], [], True
 
     t_norm = norm(transcript)
-    grounding = [grounding_score(p.evidence.text, t_norm) for p in preds]
+    grounding = [min((grounding_score(e.text, t_norm) for e in p.evidence), default=0.0) for p in preds]
     grounded = [s >= cfg.get("grounding_threshold", 90) for s in grounding]
 
     pairs = match(preds, golds, cfg.get("match_threshold", 0.6), cfg.get("evidence_weight", 0.6))
@@ -90,7 +90,9 @@ def main():
         cfg["mock"] = True
 
     gold = load_gold(cfg["gold_path"])
-    uids = sorted(gold)[: args.limit] if args.limit else sorted(gold)
+    # Meetings with no gold records still count, so false positives are measured.
+    uids = sorted(set(cfg.get("uids") or []) | gold.keys())
+    uids = uids[: args.limit] if args.limit else uids
     transcripts = load_transcripts(uids, cfg)
     model = get_model(cfg, gold)
 
@@ -103,7 +105,7 @@ def main():
     summaries, details = [], []
     for uid in uids:
         log.info("running %s", uid)
-        s, d = run_one(uid, transcripts[uid], gold[uid], model, cfg, raw_dir)
+        s, d = run_one(uid, transcripts[uid], gold.get(uid, []), model, cfg, raw_dir)
         summaries.append(s)
         details.append(d)
 

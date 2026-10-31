@@ -23,7 +23,7 @@ def grounding_score(evidence, transcript_norm):
 
 
 def pair_score(pred, gold, evidence_weight=0.6):
-    ev = fuzz.partial_ratio(norm(pred.evidence.text), norm(gold.evidence.text)) / 100
+    ev = fuzz.partial_ratio(norm(pred.evidence_text), norm(gold.evidence_text)) / 100
     ao = fuzz.token_set_ratio(
         norm(f"{pred.action} {pred.object or ''}"),
         norm(f"{gold.action} {gold.object or ''}"),
