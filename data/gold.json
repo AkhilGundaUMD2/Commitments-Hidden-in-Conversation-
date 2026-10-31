@@ -1,7 +1,23 @@
 [
   {
-    "uid": "LongBeachCC_05172022_22-0515",
+    "uid": "DenverCityCouncil_06192017_17-0498",
     "commitment_id": "C001",
+    "owner": null,
+    "action": "have",
+    "object": "report",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "May we have a staff report"
+    },
+    "revision_of": null,
+    "uncertainty": true
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C002",
     "owner": "Emily Armstrong and Art Sanchez",
     "action": "amend",
     "object": "ordinance",
@@ -9,7 +25,537 @@
     "condition": null,
     "deadline": null,
     "status": "active",
-    "evidence": {"text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"},
+    "evidence": {
+      "text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C003",
+    "owner": "Mr. Mayor",
+    "action": "hear",
+    "object": "colleagues",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I'd like to have Mr. Mayor hear from my colleagues and in public comment."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C004",
+    "owner": null,
+    "action": "support and move forward",
+    "object": "item",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I'm inclined to support this and move this item forward."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C005",
+    "owner": "members of the public",
+    "action": "line up at",
+    "object": "the podium in Zoom",
+    "commitment_force": "intention",
+    "condition": "there are any members of the public that would like to speak on item 22",
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "If there are any members of the public that would like to speak on item 22 and person, please line up at the podium in Zoom."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C006",
+    "owner": "members of the public",
+    "action": "use or dial",
+    "object": "the raise hand feature or star nine",
+    "commitment_force": "intention",
+    "condition": "there are any members of the public that would like to speak on item 22",
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "Please use the raise hand feature or dial star nine."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C007",
+    "owner": "James Mark",
+    "action": "request",
+    "object": "full audit towards every means of funding that was appointed or supposed to be allotted to assist black social equity entrepreneurs in moving this process forward and a fully drawn out report of how those funds, the $3 million in the pipeline for social equity planning on being expended also for the records",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "we are requesting a full audit towards every means of funding that was appointed or supposed to be allotted to assist black social equity entrepreneurs in moving this process forward. Also, we want a fully drawn out report of how those funds, the $3 million in the pipeline for social equity planning on being expended also for the records."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C008",
+    "owner": "Marian Burrell",
+    "action": "operate",
+    "object": "dispensary",
+    "commitment_force": "intention",
+    "condition": "buffer set down to 200",
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "My facility now is in your district, District six, and I'm looking to operate a dispensary, but there's a 200 gap within the buffer of other dispensaries. And so I would like that buffer to be set down so that."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C009",
+    "owner": "Marian Burrell",
+    "action": "remove from position",
+    "object": "Emily Armstrong",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "So I do back what James and Mark's ask and removing Emily from her position now because after conversations I see that she lacks the empathy and the understanding regarding social equity, regarding the war on drugs and what it has done to our people."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C010",
+    "owner": "Jillian Xavier",
+    "action": "dismiss",
+    "object": "Emily Armstrong",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I want to recommend that you immediately dismiss her."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C011",
+    "owner": "Jillian Xavier",
+    "action": "investigate",
+    "object": "Emily Armstrong",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I'll have an investigation done on her because, you know, we have emails from other equity applicants where you're telling them nobody is above me."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C012",
+    "owner": "Jillian Xavier",
+    "action": "replace",
+    "object": "Emily Armstrong",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": "Next week",
+    "status": "proposed",
+    "evidence": {
+      "text": "Get rid of her. And then we got your back. Next week, replace."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "commitment_id": "C013",
+    "owner": "Gavin",
+    "action": "provide additional points",
+    "object": "individuals that have lived in these areas for ten years or more",
+    "commitment_force": "suggestion",
+    "condition": "the ordinance is not going to reflect the ten year residency requirement",
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "If the ordinance is not going to reflect the ten year residency requirement, at least the scoring system for the eight social equity dispensaries should provide additional points for those individuals that have lived in these areas for ten years or more."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C014",
+    "owner": "Mr. Chairman",
+    "action": "bring to full council",
+    "object": "strategy",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": "July 15",
+    "status": "active",
+    "evidence": {
+      "text": "what strategies in particular are important to individual council members so that we can hear that and make sure it's reflected in the strategy that I would intend to bring to full council, to the full committee on July 15th and to set the stage"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C015",
+    "owner": "Mr. Chairman",
+    "action": "offer",
+    "object": "thoughts",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I will offer some of my own thoughts, and then I would invite my colleagues to follow suit."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C016",
+    "owner": "Mr. Chairman",
+    "action": "evaluate and adjust",
+    "object": "investments",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": "15 years",
+    "status": "proposed",
+    "evidence": {
+      "text": "we should evaluate the program as it proceeds over its 15 years and have ample opportunity to adjust our invest particular investments to make sure that the programs we're investing in are having the intended effect in outcome."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C017",
+    "owner": "Councilmember Balducci",
+    "action": "identify",
+    "object": "specific strategies with dollar amounts",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "One time funding is more attractive than setting up and starting programs for which we don't know that the funding will be able to continue. Capital funding is attractive to me because of that. I'm interested in us making some decisions in this legislation. I would like to see us do more than just pick three categories and defer to the executive branch. I feel like the legislative branch has had a very, very rigorous process. We've led in terms of hiring a consultant and having community outreach, that we shouldn't be afraid to identify specific strategies with dollar amounts in this legislation."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C018",
+    "owner": "Councilmember Balducci",
+    "action": "firmly commit to",
+    "object": "populations of focus",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "So I would like to see some firm commitments in the legislation not worked out later by stakeholders, but what our expectations are about the population serve so that we're focusing in, as we heard today, on dual language."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C019",
+    "owner": "Councilmember Balducci",
+    "action": "keep",
+    "object": "admin costs below 5%",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I'd like to see admin costs no more than 5%."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C020",
+    "owner": "Councilmember Balducci",
+    "action": "set aside",
+    "object": "1% for technical assistance for smaller organizations with less experience to assistance in applying and navigating the system",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I'd like to see 1% set aside for technical assistance for smaller organizations with less experience to assistance in applying and navigating the system."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C021",
+    "owner": "Councilmember Balducci",
+    "action": "carve out",
+    "object": "budget for King County facilities",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I'd like to see us have a specific carve out for our own facilities in King County"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C022",
+    "owner": "Councilmember Balducci",
+    "action": "directly allocate",
+    "object": "funds for incarcerated young people",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "We we have incarcerated young adults, and I'd like to make sure that we provide support, even though there are people under 18 at the RJC, get students up to age 21, are eligible for education support. So I'd like to see those young people that are in King County's custody get a direct allocation in some way, shape or form."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C023",
+    "owner": "Mr. Chairman",
+    "action": "collaborate to verify",
+    "object": "facilities support vulnerable populations",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I appreciate all of that and particularly would be interested in working with you on the idea you surfaced. You did, in fact, surfaced last time the committee met about making sure that investments, particularly in your example, early learning that those facilities are supporting the vulnerable populations we've identified in the language in how do we find a way to do that? Look, I would like to work with you if you have any thoughts to share them."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C024",
+    "owner": "Councilmember Balducci",
+    "action": "create",
+    "object": "child care grant program for immigrant and refugee families",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "we have a lot of immigrant and refugee families in low income families in South King County and probably throughout the county who receive child care through home based programs. And I'd like to make sure that we have some mechanism to provide support for those providers, whether it's through a grant program or something like that. I think in terms of our neediest kids and where we get the most bang for the buck, there ought to be some way to reflect that so that there's some opportunities there ."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C025",
+    "owner": "Councilmember Lambert",
+    "action": "emphasize",
+    "object": "the things that are most important to me",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I'm just going to emphasize the things that are most important to me."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C026",
+    "owner": "Councilmember Lambert",
+    "action": "take into account and demonstrate community knowledge and evidence based strategies",
+    "object": "proposal",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "We've put a lot of time and effort, as has been said, into studying what types of strategies have the greatest long term educational outcomes positive and serve the most young people. And I think that we should see that study reflected in our proposal when when it comes. I think that we should go where the information leads us, including listening to what the public has said and we have our community input summary. We've heard a lot from people about what works for them. We need to take that into account and that needs to be demonstrated as well."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C027",
+    "owner": "Councilmember Lambert",
+    "action": "set",
+    "object": "evaluation period",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "It's important that we set an evaluation period."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C028",
+    "owner": "Councilmember Lambert",
+    "action": "give",
+    "object": "investment rationale",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "So I just we we have to figure out a way, I think, to give a strong rationale for why we're investing, where we're investing."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C029",
+    "owner": "Councilmember Gossett",
+    "action": "look at",
+    "object": "percentages",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "And so I think as we look at each of the percentages, we need to look at what percentage of the problem are we solving and try to get the problem solved."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C030",
+    "owner": "Councilmember Gossett",
+    "action": "make priority",
+    "object": "foster care kids",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "So I think we really need to do something with our foster care kids and to make them a huge priority."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C031",
+    "owner": "Council Member Wells",
+    "action": "put in and be vigilant",
+    "object": "criteria",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "We're going to have to put this criteria in there and we're going to be vigilant and looking at it."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C032",
+    "owner": "Council Member Wells",
+    "action": "be proscriptive",
+    "object": "findings, evaluation, and budget categories",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "We got to be proscriptive about what it is we find, how we're going to evaluate it, and why it is that we think by putting money in these categories, that's going to make a big difference for low income kids, kids of color, those on child welfare, those in foster care, and those that are involved that are involved in the juvenile justice system."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C033",
+    "owner": null,
+    "action": "create",
+    "object": "endowments",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "And I'd like to suggest to my colleagues that we really look at having some some percentage of what we do go into creating endowments, which we could then have longer term effects than otherwise."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C034",
+    "owner": null,
+    "action": "break down",
+    "object": "bucket barriers",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I want to share your interest in breaking down some of the barriers between those buckets,"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "commitment_id": "C035",
+    "owner": "Mr. Chairman",
+    "action": "take up in committee again",
+    "object": "this issue",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": "July 15",
+    "status": "active",
+    "evidence": {
+      "text": "You will see before, but will be in committee on Monday, July 15th, when we take this issue up again."
+    },
     "revision_of": null,
     "uncertainty": false
   }

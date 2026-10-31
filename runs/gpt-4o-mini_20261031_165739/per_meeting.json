@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "DenverCityCouncil_06192017_17-0498",
+    "n_pred": 2,
+    "n_gold": 1,
+    "n_matched": 0,
+    "n_ungrounded": 1,
+    "n_invalid": 0,
+    "parse_failed": false
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "n_pred": 7,
+    "n_gold": 22,
+    "n_matched": 6,
+    "n_ungrounded": 0,
+    "n_invalid": 0,
+    "parse_failed": false
+  }
+]

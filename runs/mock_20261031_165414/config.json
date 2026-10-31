@@ -1,0 +1,17 @@
+{
+  "model": "gpt-4o-mini",
+  "temperature": 0,
+  "max_tokens": 8000,
+  "model_kwargs": {},
+  "gold_path": "data/gold.json",
+  "transcripts_path": null,
+  "hf_dataset": "huuuyeah/meetingbank",
+  "transcript_cache": "data/transcripts_cache.json",
+  "grounding_threshold": 90,
+  "match_threshold": 0.6,
+  "evidence_weight": 0.6,
+  "text_threshold": 80,
+  "runs_dir": "runs",
+  "mock": true,
+  "prompt_version": "direct_v1"
+}

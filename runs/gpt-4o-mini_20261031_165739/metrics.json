@@ -1,0 +1,20 @@
+{
+  "meetings": 2,
+  "n_pred": 9,
+  "n_gold": 23,
+  "n_matched": 6,
+  "commitment_precision": 0.6666666666666666,
+  "commitment_recall": 0.2608695652173913,
+  "commitment_f1": 0.37500000000000006,
+  "unsupported_rate": 0.1111111111111111,
+  "parse_failures": 0,
+  "invalid_records": 0,
+  "owner_f1": 0.0,
+  "commitment_force_acc": 0.16666666666666666,
+  "status_acc": 0.16666666666666666,
+  "uncertainty_acc": 1.0,
+  "action_acc": 0.6666666666666666,
+  "object_acc": 0.5,
+  "condition_acc": 1.0,
+  "deadline_acc": 1.0
+}

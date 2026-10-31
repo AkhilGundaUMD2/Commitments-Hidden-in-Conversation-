@@ -1,0 +1,32 @@
+[
+    {
+        "commitment_id": "C001",
+        "owner": "Council",
+        "action": "approve",
+        "object": "Council Bill 498",
+        "commitment_force": "firm_commitment",
+        "condition": null,
+        "deadline": null,
+        "status": "completed",
+        "evidence": {
+            "text": "Council Bill 498 has passed."
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C002",
+        "owner": "Scott Robinson",
+        "action": "recommend",
+        "object": "approval of the proposed rezoning",
+        "commitment_force": "firm_commitment",
+        "condition": null,
+        "deadline": null,
+        "status": "completed",
+        "evidence": {
+            "text": "staff finds that the proposed rezoning is consistent with adopted plans and recommends approval."
+        },
+        "revision_of": null,
+        "uncertainty": false
+    }
+]

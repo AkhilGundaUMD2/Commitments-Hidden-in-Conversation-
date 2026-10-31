@@ -1,0 +1,297 @@
+[
+  {
+    "uid": "DenverCityCouncil_06192017_17-0498",
+    "predictions": [
+      {
+        "uid": "DenverCityCouncil_06192017_17-0498",
+        "commitment_id": "C001",
+        "owner": "Council",
+        "action": "approve",
+        "object": "Council Bill 498",
+        "commitment_force": "firm_commitment",
+        "condition": null,
+        "deadline": null,
+        "status": "completed",
+        "evidence": {
+          "text": "Council Bill 498 has passed."
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "DenverCityCouncil_06192017_17-0498",
+        "commitment_id": "C002",
+        "owner": "Scott Robinson",
+        "action": "recommend",
+        "object": "approval of the proposed rezoning",
+        "commitment_force": "firm_commitment",
+        "condition": null,
+        "deadline": null,
+        "status": "completed",
+        "evidence": {
+          "text": "staff finds that the proposed rezoning is consistent with adopted plans and recommends approval."
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 85.26315789473684,
+        "grounded": false
+      }
+    ],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [
+      "C001",
+      "C002"
+    ],
+    "unmatched_gold": [
+      "C001"
+    ]
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "predictions": [
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C001",
+        "owner": "null",
+        "action": "bring",
+        "object": "strategy",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": "July 15th",
+        "status": "active",
+        "evidence": {
+          "text": "I would intend to bring to full council, to the full committee on July 15th"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C002",
+        "owner": "null",
+        "action": "evaluate",
+        "object": "program",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": "15 years",
+        "status": "active",
+        "evidence": {
+          "text": "we should evaluate the program as it proceeds over its 15 years"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C003",
+        "owner": "null",
+        "action": "ensure",
+        "object": "support for providers",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "I'd like to make sure that we have some mechanism to provide support for those providers"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C004",
+        "owner": "null",
+        "action": "set aside",
+        "object": "1% for technical assistance",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "I'd like to see 1% set aside for technical assistance for smaller organizations"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C005",
+        "owner": "null",
+        "action": "provide",
+        "object": "support for incarcerated young adults",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "I'd like to make sure that we provide support, even though there are people under 18 at the RJC"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C006",
+        "owner": "null",
+        "action": "target",
+        "object": "criteria for funding",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "I think it's absolutely imperative that we have targeted criteria for money that's at 0 to 5 K-12 and post-secondary"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 100.0,
+        "grounded": true
+      },
+      {
+        "uid": "KingCountyCC_07012019_2019-0245",
+        "commitment_id": "C007",
+        "owner": "null",
+        "action": "create",
+        "object": "endowments",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+          "text": "I'd like to suggest to my colleagues that we really look at having some percentage of what we do go into creating endowments"
+        },
+        "revision_of": null,
+        "uncertainty": false,
+        "grounding_score": 95.96774193548387,
+        "grounded": true
+      }
+    ],
+    "invalid_records": [],
+    "matches": [
+      {
+        "pred_id": "C001",
+        "gold_id": "C014",
+        "score": 1.0,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": true,
+          "status": true,
+          "uncertainty": true,
+          "action": true,
+          "object": true,
+          "condition": true,
+          "deadline": true
+        }
+      },
+      {
+        "pred_id": "C002",
+        "gold_id": "C016",
+        "score": 0.8666666666666666,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": false,
+          "status": false,
+          "uncertainty": true,
+          "action": true,
+          "object": false,
+          "condition": true,
+          "deadline": true
+        }
+      },
+      {
+        "pred_id": "C003",
+        "gold_id": "C024",
+        "score": 0.7361702127659574,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": false,
+          "status": false,
+          "uncertainty": true,
+          "action": false,
+          "object": false,
+          "condition": true,
+          "deadline": true
+        }
+      },
+      {
+        "pred_id": "C004",
+        "gold_id": "C020",
+        "score": 1.0,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": false,
+          "status": false,
+          "uncertainty": true,
+          "action": true,
+          "object": true,
+          "condition": true,
+          "deadline": true
+        }
+      },
+      {
+        "pred_id": "C005",
+        "gold_id": "C022",
+        "score": 0.8693877551020408,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": false,
+          "status": false,
+          "uncertainty": true,
+          "action": false,
+          "object": false,
+          "condition": true,
+          "deadline": true
+        }
+      },
+      {
+        "pred_id": "C007",
+        "gold_id": "C033",
+        "score": 0.9758064516129032,
+        "fields": {
+          "owner_f1": 0.0,
+          "commitment_force": false,
+          "status": false,
+          "uncertainty": true,
+          "action": true,
+          "object": true,
+          "condition": true,
+          "deadline": true
+        }
+      }
+    ],
+    "unmatched_pred": [
+      "C006"
+    ],
+    "unmatched_gold": [
+      "C015",
+      "C017",
+      "C018",
+      "C019",
+      "C021",
+      "C023",
+      "C025",
+      "C026",
+      "C027",
+      "C028",
+      "C029",
+      "C030",
+      "C031",
+      "C032",
+      "C034",
+      "C035"
+    ]
+  }
+]

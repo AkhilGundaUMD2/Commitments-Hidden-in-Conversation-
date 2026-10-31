@@ -1,0 +1,199 @@
+```json
+[
+  {
+    "commitment_id": "P001",
+    "owner": "Emily Armstrong",
+    "action": "amend",
+    "object": "ordinance",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "council at the May 10th meeting, directed staff to amend the ordinance to include restricting the equity dispensary RFP process to equity applicants verified on or before May 10th of 2022"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P002",
+    "owner": "Mr. Mayor",
+    "action": "hear",
+    "object": "colleagues",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I'd like to have Mr. Mayor hear from my colleagues and in public comment."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P003",
+    "owner": null,
+    "action": "support and move forward",
+    "object": "item",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I'm inclined to support this and move this item forward."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P004",
+    "owner": "members of the public",
+    "action": "line up at",
+    "object": "the podium in Zoom",
+    "commitment_force": "intention",
+    "condition": "there are any members of the public that would like to speak on item 22",
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "If there are any members of the public that would like to speak on item 22 and person, please line up at the podium in Zoom."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P005",
+    "owner": "members of the public",
+    "action": "use or dial",
+    "object": "the raise hand feature or star nine",
+    "commitment_force": "intention",
+    "condition": "there are any members of the public that would like to speak on item 22",
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "Please use the raise hand feature or dial star nine."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P006",
+    "owner": "James Mark",
+    "action": "request",
+    "object": "full audit towards every means of funding that was appointed or supposed to be allotted to assist black social equity entrepreneurs in moving this process forward and a fully drawn out report of how those funds, the $3 million in the pipeline for social equity planning on being expended also for the records",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "we are requesting a full audit towards every means of funding that was appointed or supposed to be allotted to assist black social equity entrepreneurs in moving this process forward. Also, we want a fully drawn out report of how those funds, the $3 million in the pipeline for social equity planning on being expended also for the records."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P007",
+    "owner": "Marian Burrell",
+    "action": "operate",
+    "object": "dispensary",
+    "commitment_force": "intention",
+    "condition": "buffer set down to 200",
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "My facility now is in your district, District six, and I'm looking to operate a dispensary, but there's a 200 gap within the buffer of other dispensaries. And so I would like that buffer to be set down so that."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P008",
+    "owner": "Marian Burrell",
+    "action": "remove from position",
+    "object": "Emily Armstrong",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "So I do back what James and Mark's ask and removing Emily from her position now because after conversations I see that she lacks the empathy and the understanding regarding social equity, regarding the war on drugs and what it has done to our people."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P009",
+    "owner": "Jillian Xavier",
+    "action": "dismiss",
+    "object": "Emily Armstrong",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "I want to recommend that you immediately dismiss her."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P010",
+    "owner": "Jillian Xavier",
+    "action": "investigate",
+    "object": "Emily Armstrong",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": null,
+    "status": "active",
+    "evidence": {
+      "text": "I'll have an investigation done on her because, you know, we have emails from other equity applicants where you're telling them nobody is above me."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P011",
+    "owner": "Jillian Xavier",
+    "action": "replace",
+    "object": "Emily Armstrong",
+    "commitment_force": "firm_commitment",
+    "condition": null,
+    "deadline": "Next week",
+    "status": "proposed",
+    "evidence": {
+      "text": "Get rid of her. And then we got your back. Next week, replace."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P012",
+    "owner": "Gavin",
+    "action": "provide additional points",
+    "object": "individuals that have lived in these areas for ten years or more",
+    "commitment_force": "suggestion",
+    "condition": "the ordinance is not going to reflect the ten year residency requirement",
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "If the ordinance is not going to reflect the ten year residency requirement, at least the scoring system for the eight social equity dispensaries should provide additional points for those individuals that have lived in these areas for ten years or more."
+    },
+    "revision_of": null,
+    "uncertainty": false
+  },
+  {
+    "commitment_id": "P013",
+    "owner": "staff",
+    "action": "schedule",
+    "object": "follow-up hearing",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": "next month",
+    "status": "proposed",
+    "evidence": {
+      "text": "this sentence does not appear in the transcript"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  }
+]
+```

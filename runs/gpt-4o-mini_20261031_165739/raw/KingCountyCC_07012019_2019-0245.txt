@@ -1,0 +1,107 @@
+[
+    {
+        "commitment_id": "C001",
+        "owner": "null",
+        "action": "bring",
+        "object": "strategy",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": "July 15th",
+        "status": "active",
+        "evidence": {
+            "text": "I would intend to bring to full council, to the full committee on July 15th"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C002",
+        "owner": "null",
+        "action": "evaluate",
+        "object": "program",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": "15 years",
+        "status": "active",
+        "evidence": {
+            "text": "we should evaluate the program as it proceeds over its 15 years"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C003",
+        "owner": "null",
+        "action": "ensure",
+        "object": "support for providers",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+            "text": "I'd like to make sure that we have some mechanism to provide support for those providers"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C004",
+        "owner": "null",
+        "action": "set aside",
+        "object": "1% for technical assistance",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+            "text": "I'd like to see 1% set aside for technical assistance for smaller organizations"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C005",
+        "owner": "null",
+        "action": "provide",
+        "object": "support for incarcerated young adults",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+            "text": "I'd like to make sure that we provide support, even though there are people under 18 at the RJC"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C006",
+        "owner": "null",
+        "action": "target",
+        "object": "criteria for funding",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+            "text": "I think it's absolutely imperative that we have targeted criteria for money that's at 0 to 5 K-12 and post-secondary"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C007",
+        "owner": "null",
+        "action": "create",
+        "object": "endowments",
+        "commitment_force": "intention",
+        "condition": null,
+        "deadline": null,
+        "status": "active",
+        "evidence": {
+            "text": "I'd like to suggest to my colleagues that we really look at having some percentage of what we do go into creating endowments"
+        },
+        "revision_of": null,
+        "uncertainty": false
+    }
+]

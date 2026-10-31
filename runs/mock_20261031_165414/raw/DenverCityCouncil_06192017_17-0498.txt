@@ -1,0 +1,34 @@
+```json
+[
+  {
+    "commitment_id": "P001",
+    "owner": null,
+    "action": "have",
+    "object": "report",
+    "commitment_force": "suggestion",
+    "condition": null,
+    "deadline": null,
+    "status": "proposed",
+    "evidence": {
+      "text": "May we have a staff report"
+    },
+    "revision_of": null,
+    "uncertainty": true
+  },
+  {
+    "commitment_id": "P002",
+    "owner": "staff",
+    "action": "schedule",
+    "object": "follow-up hearing",
+    "commitment_force": "intention",
+    "condition": null,
+    "deadline": "next month",
+    "status": "proposed",
+    "evidence": {
+      "text": "this sentence does not appear in the transcript"
+    },
+    "revision_of": null,
+    "uncertainty": false
+  }
+]
+```
