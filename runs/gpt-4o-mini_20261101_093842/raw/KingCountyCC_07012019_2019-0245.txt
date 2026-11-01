@@ -1,0 +1,116 @@
+[
+    {
+        "commitment_id": "C001",
+        "version": 1,
+        "owner": "unknown",
+        "action": "bring",
+        "object": "strategy",
+        "commitment_force": "intention",
+        "conditions_cnf": [],
+        "deadline": "July 15th",
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I would intend to bring to full council, to the full committee on July 15th"
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C002",
+        "version": 1,
+        "owner": "unknown",
+        "action": "evaluate",
+        "object": "program",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "it's important that we set an evaluation period."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C003",
+        "version": 1,
+        "owner": "unknown",
+        "action": "provide",
+        "object": "support",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I'd like to make sure that we provide support, even though there are people under 18 at the RJC."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C004",
+        "version": 1,
+        "owner": "unknown",
+        "action": "set aside",
+        "object": "1% for technical assistance",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I'd like to see 1% set aside for technical assistance for smaller organizations."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C005",
+        "version": 1,
+        "owner": "unknown",
+        "action": "ensure",
+        "object": "target population",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I want to see a specific commitment to ensure that those dollars are going to serve the target population."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "commitment_id": "C006",
+        "version": 1,
+        "owner": "unknown",
+        "action": "create",
+        "object": "endowments",
+        "commitment_force": "suggestion",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "proposed",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I'd like to suggest to my colleagues that we really look at having some percentage of what we do go into creating endowments."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    }
+]

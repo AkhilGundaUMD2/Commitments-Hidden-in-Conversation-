@@ -1,0 +1,12 @@
+{
+  "meetings": 5,
+  "n_pred": 0,
+  "n_gold": 35,
+  "n_matched": 0,
+  "commitment_precision": 0.0,
+  "commitment_recall": 0.0,
+  "commitment_f1": 0.0,
+  "unsupported_rate": 0.0,
+  "parse_failures": 0,
+  "invalid_records": 0
+}

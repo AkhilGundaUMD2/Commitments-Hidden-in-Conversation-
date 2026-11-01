@@ -1,0 +1,81 @@
+[
+  {
+    "uid": "DenverCityCouncil_06192017_17-0498",
+    "predictions": [],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [],
+    "unmatched_gold": []
+  },
+  {
+    "uid": "DenverCityCouncil_07082019_19-0296",
+    "predictions": [],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [],
+    "unmatched_gold": [
+      "C001"
+    ]
+  },
+  {
+    "uid": "DenverCityCouncil_11302015_15-0868",
+    "predictions": [],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [],
+    "unmatched_gold": [
+      "C001",
+      "C002",
+      "C003",
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "uid": "KingCountyCC_07012019_2019-0245",
+    "predictions": [],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [],
+    "unmatched_gold": [
+      "C001",
+      "C002",
+      "C003",
+      "C004",
+      "C005",
+      "C006",
+      "C007",
+      "C008",
+      "C009",
+      "C010",
+      "C011",
+      "C012",
+      "C013",
+      "C014",
+      "C015",
+      "C016",
+      "C017",
+      "C018",
+      "C019",
+      "C020"
+    ]
+  },
+  {
+    "uid": "LongBeachCC_05172022_22-0515",
+    "predictions": [],
+    "invalid_records": [],
+    "matches": [],
+    "unmatched_pred": [],
+    "unmatched_gold": [
+      "C001",
+      "C002",
+      "C003",
+      "C004",
+      "C005",
+      "C006",
+      "C007",
+      "C008",
+      "C009"
+    ]
+  }
+]

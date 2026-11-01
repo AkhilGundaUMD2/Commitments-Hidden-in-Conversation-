@@ -1,5 +1,137 @@
 [
     {
+        "uid": "DenverCityCouncil_07082019_19-0296",
+        "commitment_id": "C001",
+        "version": 1,
+        "owner": "unknown",
+        "action": "provide",
+        "object": "periodic project updates to council on scope and funding",
+        "commitment_force": "suggestion",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "proposed",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "asking council to have project updates on where we're at in the scope of the project"
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "uid": "DenverCityCouncil_11302015_15-0868",
+        "commitment_id": "C001",
+        "version": 1,
+        "owner": "Lisa",
+        "action": "send",
+        "object": "copy of the appraisal",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "I didn't get an actual copy of the appraisal."
+            },
+            {
+                "source": "transcript",
+                "text": "Can you send that one? Absolutely."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "uid": "DenverCityCouncil_11302015_15-0868",
+        "commitment_id": "C002",
+        "version": 1,
+        "owner": "Lisa",
+        "action": "deliver",
+        "object": "draft process for disposing of city assets",
+        "commitment_force": "intention",
+        "conditions_cnf": [],
+        "deadline": "shortly",
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "there is a process in place that's being put together right now"
+            },
+            {
+                "source": "transcript",
+                "text": "we've been working on the draft, so there should be something coming to you shortly"
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
+        "uid": "DenverCityCouncil_11302015_15-0868",
+        "commitment_id": "C003",
+        "version": 1,
+        "owner": "Lisa",
+        "action": "correct",
+        "object": "wording to say adjacent to 14, 16",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": "for final",
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "So I'll follow up and make sure that that is corrected for final."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": true
+    },
+    {
+        "uid": "DenverCityCouncil_11302015_15-0868",
+        "commitment_id": "C004",
+        "version": 1,
+        "owner": "unknown",
+        "action": "bring forward",
+        "object": "amendment",
+        "commitment_force": "intention",
+        "conditions_cnf": [],
+        "deadline": "next week",
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "we may have something on the floor for you to act on next week"
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": true
+    },
+    {
+        "uid": "DenverCityCouncil_11302015_15-0868",
+        "commitment_id": "C005",
+        "version": 1,
+        "owner": "Lisa",
+        "action": "get",
+        "object": "original sunset date of RBI purchase option window",
+        "commitment_force": "firm_commitment",
+        "conditions_cnf": [],
+        "deadline": null,
+        "status": "active",
+        "evidence": [
+            {
+                "source": "transcript",
+                "text": "And when did that sunset originally."
+            },
+            {
+                "source": "transcript",
+                "text": "I can get that for you as well."
+            }
+        ],
+        "revision_of": null,
+        "uncertainty": false
+    },
+    {
         "uid": "LongBeachCC_05172022_22-0515",
         "commitment_id": "C001",
         "version": 1,
